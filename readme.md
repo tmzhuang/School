@@ -1,3 +1,13 @@
+#Fall 2016
+
+[ELEC2507 - Electronics I](##ELEC2507 - Electronics I)
+[SYSC4005 - Simulation and Modelling](##SYSC4005 - Simulation and Modelling)
+[SYSC4806 - Software Engineering Lab](##SYSC4806 - Software Engineering Lab)
+[SYSC4507 - Computer Systems Architecture](##SYSC4507 - Computer Systems Architecture)
+[COMP4106 - Artificial Intelligence](##COMP4106 - Artificial Intelligence)
+[SYSC4005 - Simulation and Modelling](##SYSC4005 - Simulation and Modelling)
+[SYSC4907 - Fourth Year Project](##SYSC4907 - Fourth Year Project)
+
 ##ELEC2507 - Electronics I
 Website - CULearn
 
@@ -9,6 +19,25 @@ T/Th 1:30 - 2:30 MC3036
 	25 Lab(5)
 	25 PA - Tests(5)
 	50 Final
+##SYSC4005 - Simulation and Modelling
+[Website](http://www.sce.carleton.ca/courses/sysc-5001/)
+
+[Course Outline](file:///home/tianming/Drive/School/SYSC4005/outline.pdf)
+
+Professor: [Ioannis Lambadaris](mailto:ioannis@sce.carleton.ca)  
+M/W 5-5:50, 7:30-8 ME4448
+
+	30 Mid1 WED FEB 24
+	40 Mid2 WED APR 6
+	10 Ass(4)
+	10 Proj
+	10 Quiz
+
+##SYSC4806 - Software Engineering Lab
+Website - CULearn
+##SYSC4507 - Computer Systems Architecture
+Website - CULearn
+##COMP4106 - Artificial Intelligence
 ##SYSC4005 - Simulation and Modelling
 [Website](http://www.sce.carleton.ca/courses/sysc-5001/)
 
