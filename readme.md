@@ -1,12 +1,12 @@
 #Fall 2016
 
-[ELEC2507 - Electronics I](#ELEC2507 - Electronics I)  
-[SYSC4005 - Simulation and Modelling](##SYSC4005 - Simulation and Modelling)  
-[SYSC4806 - Software Engineering Lab](##SYSC4806 - Software Engineering Lab)  
-[SYSC4507 - Computer Systems Architecture](##SYSC4507 - Computer Systems Architecture)  
-[COMP4106 - Artificial Intelligence](##COMP4106 - Artificial Intelligence)  
-[SYSC4005 - Simulation and Modelling](##SYSC4005 - Simulation and Modelling)  
-[SYSC4907 - Fourth Year Project](##SYSC4907 - Fourth Year Project)  
+[ELEC2507 - Electronics I](#elec2507---electronics-i)  
+[SYSC4005 - Simulation and Modelling](#sysc4005---simulation-and-modelling)  
+[SYSC4806 - Software Engineering Lab](#sysc4806---software-engineering-lab)  
+[SYSC4507 - Computer Systems Architecture](#sysc4507---computer-systems-architecture)  
+[COMP4106 - Artificial Intelligence](#comp4106---artificial-intelligence)  
+[SYSC4005 - Simulation and Modelling](#sysc4005---simulation-and-modelling)  
+[SYSC4907 - Fourth Year Project](#sysc4907---fourth-year-project)  
 
 ##ELEC2507 - Electronics I
 Website - CULearn
