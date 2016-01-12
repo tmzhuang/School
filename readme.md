@@ -4,7 +4,7 @@
 [SYSC4806 - Software Engineering Lab](#sysc4806---software-engineering-lab)  
 [COMP4106 - Artificial Intelligence](#comp4106---artificial-intelligence)  
 [SYSC4507 - Computer Systems Architecture](#sysc4507---computer-systems-architecture)  
-[ECOR4995 - Professional Practice](#ecor4995---professional-practice)
+[ECOR4995 - Professional Practice](#ecor4995---professional-practice)  
 [SYSC4907 - Fourth Year Project](#sysc4907---fourth-year-project)  
 ##ELEC2507 - Electronics I
 [Course Outline](https://culearn.carleton.ca/moodle/mod/resource/view.php?id=775442)
@@ -30,6 +30,7 @@ M/W 5-5:50, 7:30-8 ME4448
 	10 Proj
 	10 Quiz
 ##SYSC4806 - Software Engineering Lab
+[Course Outline](https://culearn.carleton.ca/moodle/mod/resource/view.php?id=769431)
 ##[COMP4106 - Artificial Intelligence](http://people.scs.carleton.ca/~oommen/Courses/COMP4106Winter16/)
 
 [Course Outline](http://www.scs.carleton.ca/sites/default/files/course_outlines/4106Outline16.pdf)
