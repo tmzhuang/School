@@ -17,7 +17,7 @@ T/Th 1:30 - 2:30 MC3036
 	50 Final
 
 Password for secured files is "zener_diode"
-##[SYSC4005 - Simulation and Modelling](http://www.sce.carleton.ca/courses/sysc-5001/)
+##[SYSC4005 - Simulation and Modelling](http://www.sce.carleton.ca/courses/sysc-5001/w16/)
 
 [Course Outline](http://www.sce.carleton.ca/teaching/outline.php?course=sysc4005)
 
